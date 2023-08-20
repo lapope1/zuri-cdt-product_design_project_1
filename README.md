@@ -5,7 +5,7 @@ The guide outlines the steps to recreate the design elements from the website [c
 
 ## Prerequisites
 
-- A Figma account [Ayomiposi Popoola](https://www.figma.com/file/IsavR4vlxVkqrDvhoWVZk5/Untitled?type=design&node-id=0%3A1&mode=design&t=Zec7WYQLqvRGanU1-1)
+- A Figma account [Ayomiposi Popoola](https://www.figma.com/file/IsavR4vlxVkqrDvhoWVZk5/CHECK-MY-STUDENT-ID(ZURI-CDT-TASK)?type=design&node-id=0%3A1&mode=design&t=Zec7WYQLqvRGanU1-1)
 - Basic familiarity with Figma's interface
 
 ## Steps
