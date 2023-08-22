@@ -1,7 +1,7 @@
 # Recreating Design Elements from checkmypostcode.uk using Figma
 
-This is a **Zuri continous development training project.**
-The guide outlines the steps to recreate the design elements from the website [checkmypostcode.uk](https://checkmypostcode.uk/) using the Figma design tool. The goal is to replicate the visual elements, layout, and colors from the original website.
+This is a **Zuri continuous development training project** for beginners and intermediate learners. It is an assessment task to test the basic knowledge of students on product design.
+Students are to recreate the design elements from the website [checkmypostcode.uk](https://checkmypostcode.uk/) using the Figma design tool. The goal is to replicate the visual elements, layout, and colors from the original website.
 
 ## Prerequisites
 
@@ -15,7 +15,6 @@ The guide outlines the steps to recreate the design elements from the website [c
 3. **Create Navigation Bar**
 4. **Create Search Section**
 5. **Create Search Button**
-6. **Create Result Section**
 7. **Create Footer**
 8. **Create Social Icons**
 9. **Create Copyright Text**
